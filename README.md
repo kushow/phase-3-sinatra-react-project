@@ -156,8 +156,6 @@ Database schema definitions.
  
 6. `/memes/:id/users/:user_id` - Delete a TODO item.
    
-
-
 ## LICENSE
 This repository is distributed under the MIT License
 
