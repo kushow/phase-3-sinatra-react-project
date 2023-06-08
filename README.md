@@ -7,14 +7,12 @@
 
 # Meme Generator App
 The Meme Generator is a server-side API built using Ruby's Sinatra DSL, as part of the Moringa School Phase-3 project. The API follows the MVC design pattern, and it provides a backend for a React-based frontend. The API supports all CRUD operations, including POST, DELETE, and PATCH, as well as authentication for secure user access. 
-
-
+## link description for front-end-project 
+https://github.com/kushow/my-project-frontend.git
 
 
 ## Pre-Requisites
 In order to use this repository you will need the following:
-
-
 
 - Operating System **(Windows `10+`, Linux `3.8+`, or MacOS X `10.7+`)**
 - RAM >= 4GB
