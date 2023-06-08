@@ -6,10 +6,7 @@
 [![Open Source Love svg1](https://badges.frapsoft.com/os/v1/open-source.svg?v=103)](https://github.com/ellerbrock/open-source-badges/)
 
 # Meme Generator App
-The Meme Generator is a server-side API built using Ruby's Sinatra DSL, as part of the Moringa School Phase-3 project. The API follows the MVC design pattern, and it provides a backend for a React-based frontend. The API supports all CRUD operations, including POST, DELETE, and PATCH, as well as authentication for secure user access.
-
-
- 
+The Meme Generator is a server-side API built using Ruby's Sinatra DSL, as part of the Moringa School Phase-3 project. The API follows the MVC design pattern, and it provides a backend for a React-based frontend. The API supports all CRUD operations, including POST, DELETE, and PATCH, as well as authentication for secure user access. 
 
 
 
